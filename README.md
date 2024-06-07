@@ -1,13 +1,13 @@
-## Hi there, I'm Paolo Aglieco 👋
+## Ciao a tutti, sono Paolo Aglieco 👋
 
 ### Cybersecurity Specialist | Ethical Hacker | Network Security Expert
 
 ---
-#### About Me
+#### Su di Me
 
-I am a passionate cybersecurity specialist. My expertise spans across various domains including ethical hacking, network security, and threat intelligence. I thrive on staying ahead of the latest security trends and continuously enhancing my skills to safeguard digital assets.
+Sono un appassionato di sicurezza informatica. La mia esperienza spazia in vari settori, tra cui l'hacking etico, la sicurezza della rete e l'intelligence sulle minacce. Mi piace stare al passo con le ultime tendenze in materia di sicurezza e migliorare continuamente le mie competenze per salvaguardare le risorse digitali.
 
-#### 🔍 Expertise
+#### 🔍 Competenze
 
 - **Ethical Hacking**
 - **Penetration Testing**
@@ -18,14 +18,14 @@ I am a passionate cybersecurity specialist. My expertise spans across various do
 - **Security Audits**
 - **Risk Management**
 
-#### 🛠️ Tools & Technologies
+#### 🛠️ Tools & Tecnologie
 
-- **Programming:** Python, Bash, PowerShell,C,SQL
+- **Linguaggi di programmazione:** Python, Bash, PowerShell,C,SQL
 - **Tools:** Metasploit, Wireshark, Nmap, Burp Suite, OWASP ZAP, Nessus
-- **Platforms:** Linux, Windows, AWS, Azure
-- **Others:** SIEM, IDS/IPS, Firewalls, VPNs
+- **Piattaforme:** Linux, Windows, AWS, Azure
+- **Altre:** SIEM, IDS/IPS, Firewalls, VPNs
 
-#### 🌐 Connect with Me
+#### 🌐 Contatti
 
 - [LinkedIn](https://www.linkedin.com/in/paolo-aglieco-aba6482a5/)
 <h2 align="left">TryHackMe Profile</h2>
@@ -37,12 +37,12 @@ I am a passionate cybersecurity specialist. My expertise spans across various do
 </div>
 
 
-#### 🏆 Certifications
+#### 🏆 Certificazioni
 
 - Epicode CyberSecurity Specialist
 - TryHackme offensive pentesting
 
-#### 💡 Featured Projects
+#### 💡 Progetti
 
 - **[Project Name]**: Brief description of the project and its significance.
   - [GitHub Repository](https://github.com/yourusername/projectname)
