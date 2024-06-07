@@ -28,7 +28,7 @@ Sono un appassionato di sicurezza informatica. La mia esperienza spazia in vari 
 #### 🌐 Contatti
 
 - [LinkedIn](https://www.linkedin.com/in/paolo-aglieco-aba6482a5/)
-<h2 align="left">TryHackMe Profile</h2>
+<h2 align="left">TryHackMe Profilo</h2>
 
 ###
 
