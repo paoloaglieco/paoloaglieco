@@ -33,7 +33,7 @@ Sono un appassionato di sicurezza informatica. La mia esperienza spazia in vari 
 ###
 
 <div align="left">
-  <img height="100" src="https://tryhackme-badges.s3.amazonaws.com/THE4C3.png"  />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/THE4C3.png" alt="TryHackMe">
 </div>
 
 
