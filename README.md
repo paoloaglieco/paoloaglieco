@@ -44,10 +44,10 @@ Sono un appassionato di sicurezza informatica. La mia esperienza spazia in vari 
 
 #### 💡 Progetti
 
-- **[Project Name]**: Brief description of the project and its significance.
-  - [GitHub Repository](https://github.com/yourusername/projectname)
+- **[Pentest Tools]**: Vari tools scritti da me utilizzati per i pentest
+  - [GitHub Repository](https://github.com/paoloaglieco/Script)
 
-- **[Project Name]**: Brief description of the project and its significance.
-  - [GitHub Repository](https://github.com/yourusername/projectname)
+- **[BlackBox]**: Vari blackbox write-up scritti da me
+  - [GitHub Repository](https://github.com/paoloaglieco/BlackBox)
 
 ---
