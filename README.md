@@ -50,4 +50,7 @@ Sono un appassionato di sicurezza informatica. La mia esperienza spazia in vari 
 - **[BlackBox]**: Vari blackbox write-up scritti da me
   - [GitHub Repository](https://github.com/paoloaglieco/BlackBox)
 
+- **[Epicode]**: Raccolta progetti corso CyberSecurity Specialist
+  - [GitHub Repository](https://github.com/paoloaglieco/Epicode)
+
 ---
